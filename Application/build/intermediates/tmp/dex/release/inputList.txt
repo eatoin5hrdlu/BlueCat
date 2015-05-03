@@ -1,0 +1,6 @@
+/home/peter/AndroidStudioProjects/BlueCat/Application/build/intermediates/classes/release
+/home/peter/AndroidStudioProjects/BlueCat/Application/build/intermediates/pre-dexed/release/support-annotations-21.0.2-cc68f38dbf6c0c0d29bb4be70d85e1a38b6cb105.jar
+/home/peter/AndroidStudioProjects/BlueCat/Application/build/intermediates/pre-dexed/release/classes-5dcc5b4bb142838e91cefac6a9494a266dd48d8c.jar
+/home/peter/AndroidStudioProjects/BlueCat/Application/build/intermediates/pre-dexed/release/classes-8f3b844a34427f668664e512030513feaef1624c.jar
+/home/peter/AndroidStudioProjects/BlueCat/Application/build/intermediates/pre-dexed/release/internal_impl-21.0.2-0a0d65dc07aeb68e1a1259d1030f9b2799d9e391.jar
+/home/peter/AndroidStudioProjects/BlueCat/Application/build/intermediates/pre-dexed/release/classes-89d1dba59601de3d3501011696a16810c1e09606.jar
