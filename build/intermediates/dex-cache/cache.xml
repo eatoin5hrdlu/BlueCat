@@ -2,39 +2,53 @@
 <items version="2" >
 
     <item
-        jar="/home/peter/AndroidStudioProjects/BlueCat/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/21.0.2/classes.jar"
-        jumboMode="false"
+        jar="/home/peter/src/BlueCat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="true"
         revision="22.0.1"
-        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
-        <dex dex="/home/peter/AndroidStudioProjects/BlueCat/Application/build/intermediates/pre-dexed/release/classes-8f3b844a34427f668664e512030513feaef1624c.jar" />
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/peter/src/BlueCat/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2_d4b2095e75001033e0bf66a9b7c2beaaeaaa6411.jar" />
     </item>
     <item
-        jar="/home/peter/AndroidStudioProjects/BlueCat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
-        jumboMode="false"
+        jar="/home/peter/src/BlueCat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/jars/classes.jar"
+        jumboMode="true"
         revision="22.0.1"
-        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
-        <dex dex="/home/peter/AndroidStudioProjects/BlueCat/Application/build/intermediates/pre-dexed/release/classes-89d1dba59601de3d3501011696a16810c1e09606.jar" />
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/home/peter/src/BlueCat/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-21.0.2_2818ec5d8da81eb0ee07bac2476762099da5b0be.jar" />
     </item>
     <item
         jar="/home/peter/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
-        jumboMode="false"
+        jumboMode="true"
         revision="22.0.1"
         sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
-        <dex dex="/home/peter/AndroidStudioProjects/BlueCat/Application/build/intermediates/pre-dexed/release/support-annotations-21.0.2-cc68f38dbf6c0c0d29bb4be70d85e1a38b6cb105.jar" />
+        <dex dex="/home/peter/src/BlueCat/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2_cc68f38dbf6c0c0d29bb4be70d85e1a38b6cb105.jar" />
     </item>
     <item
-        jar="/home/peter/AndroidStudioProjects/BlueCat/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
-        jumboMode="false"
+        jar="/home/peter/src/BlueCat/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/21.0.2/jars/classes.jar"
+        jumboMode="true"
         revision="22.0.1"
-        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
-        <dex dex="/home/peter/AndroidStudioProjects/BlueCat/Application/build/intermediates/pre-dexed/release/classes-5dcc5b4bb142838e91cefac6a9494a266dd48d8c.jar" />
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="/home/peter/src/BlueCat/Application/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-21.0.2_53b7e69f2b9c1ac072002a28287ffb02a71542b5.jar" />
     </item>
     <item
-        jar="/home/peter/AndroidStudioProjects/BlueCat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
-        jumboMode="false"
+        jar="/home/peter/src/BlueCat/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
         revision="22.0.1"
-        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
-        <dex dex="/home/peter/AndroidStudioProjects/BlueCat/Application/build/intermediates/pre-dexed/release/internal_impl-21.0.2-0a0d65dc07aeb68e1a1259d1030f9b2799d9e391.jar" />
+        sha1="0e122f3e8a5d7cf69780374656908ca800ce343d">
+        <dex dex="/home/peter/src/BlueCat/Application/build/intermediates/pre-dexed/debug/instant-run_9e408118739b034547375958058e4bd170ddc271.jar" />
+    </item>
+    <item
+        jar="/home/peter/src/BlueCat/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/peter/src/BlueCat/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.2_b9673c3134ea26543aeeb04a17128a57c7420aa1.jar" />
+    </item>
+    <item
+        jar="/home/peter/src/BlueCat/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8f0972a81150c8c42999a868740d9840fcf7def3">
+        <dex dex="/home/peter/src/BlueCat/Application/build/intermediates/pre-dexed/debug/instant-run-bootstrap_d80793310435bd9f3501042c74b196385d67e222.jar" />
     </item>
 
 </items>
